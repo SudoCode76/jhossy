@@ -1,0 +1,25 @@
+/*menu*/
+.botonActivo {
+  background-color: #ffffff; /* Color de fondo para la opción activa */
+  border-radius: 5px;
+}
+.navbar {
+  box-shadow: 0px 15px 6px -6px rgba(0, 0, 0, 0.1); /* ajustar la sombra según tus preferencias */
+  text-align: center;
+  
+}
+
+header{
+  background-color: #a04f62; /*  ajustar el color del sombreado */
+  border-radius: 5px;
+  text-align: center;
+
+}
+
+body{
+  padding: 10px;
+  background-color: #e6d7b8;
+}
+
+
+
